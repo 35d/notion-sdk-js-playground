@@ -1,0 +1,8 @@
+{
+  "name": "notion-sdk-js-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:35d/notion-sdk-js-playground.git",
+  "author": "35d <xxx35d@gmail.com>",
+  "license": "MIT"
+}
