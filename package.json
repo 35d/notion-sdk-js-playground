@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:35d/notion-sdk-js-playground.git",
   "author": "35d <xxx35d@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^0.4.13"
+  }
 }
